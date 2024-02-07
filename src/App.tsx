@@ -10,7 +10,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <h1>{getWelcomeMessage("Nilesh")}</h1>
-        <h2>{getWelcomeMessage("getMobileSharedMessage")}</h2>
+        <h2>{getMobileSharedMessage()}</h2>
       </header>
     </div>
   );
