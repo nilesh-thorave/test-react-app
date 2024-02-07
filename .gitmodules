@@ -1,0 +1,3 @@
+[submodule "src/test-shared-modules"]
+	path = src/test-shared-modules
+	url = https://github.com/nilesh-thorave/test-shared-modules.git
